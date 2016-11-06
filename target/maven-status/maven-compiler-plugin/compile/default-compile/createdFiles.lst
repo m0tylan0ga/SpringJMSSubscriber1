@@ -1,0 +1,7 @@
+com\example\MessageReceiver.class
+com\example\AppController.class
+com\example\DBConfig.class
+com\example\models\User.class
+com\example\SpringJmsApplication.class
+com\example\MessagingConfiguration.class
+com\example\models\UserDao.class
